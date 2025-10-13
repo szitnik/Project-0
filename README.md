@@ -1,4 +1,4 @@
-# Introduction to Data Science: Project 0
+# Introduction to Data Science: Regular work
 
 Name: `ADD YOUR NAME AND SURNAME`
 
